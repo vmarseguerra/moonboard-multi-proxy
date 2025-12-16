@@ -35,12 +35,12 @@ To be detected by the app the BLE device name needs to start by "Moonboard" and 
 - Hold numbers are ordered in zig zag from bottom left to top right, starts at 0 and ends at 197
 
 Hold type:
-- S: Start
-- L: Left
-- R: Right
-- M: Match
-- F: Foot
-- E: End
+- S: Start (green)
+- L: Left (violet)
+- R: Right (blue)
+- M: Match (dark pink)
+- F: Foot (light blue)
+- E: End (red)
 
 Examples:
 - Eat thy cake: `l#S67,R62,R84,R94,R109,R115,R116,E125,S148,R159#`
